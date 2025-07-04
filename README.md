@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I am Faris Iskandar Hafidz 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&size=25&duration=3000&pause=1000&background=27FFBD00&center=true&random=true&width=435&lines=Hi+I+am+Faris+Iskandar+Hafidz%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ###
 
